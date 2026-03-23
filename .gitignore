@@ -1,0 +1,5 @@
+local.config
+*.tar.gz
+manifest.raucm
+keys/
+bundle.raucb
